@@ -2,9 +2,11 @@
 
 <h2>Estado del proyecto</h2>
 
-- Finalizado
+- En proceso
 
 <h2>Tecnologías utilizadas</h2>
 
 - HTML
 - CSS
+
+
