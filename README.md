@@ -2,7 +2,7 @@
 
 <h2>Estado del proyecto</h2>
 
-- En proceso
+- Finalizado y compartido
 
 <h2>Tecnologías utilizadas</h2>
 
